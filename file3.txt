@@ -9,3 +9,4 @@ PrtSc: Take a screenshot of the complete screen and save it in the Pictures fold
 Alt + PrtSc: Take a screenshot of the current window and save it in the Pictures folder.
 
 GNOME Keyboard Shortcuts
+Ubuntu Keyword Shortcuts
