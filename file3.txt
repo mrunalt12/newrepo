@@ -7,3 +7,5 @@ Alt + F8: Resize the current window and use the arrow keys to resize it.
 Alt + F10: Minimize or maximize the current window.
 PrtSc: Take a screenshot of the complete screen and save it in the Pictures folder.
 Alt + PrtSc: Take a screenshot of the current window and save it in the Pictures folder.
+
+GNOME Keyboard Shortcuts
