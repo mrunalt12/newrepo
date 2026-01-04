@@ -8,7 +8,13 @@ Alt + F10: Minimize or maximize the current window.
 PrtSc: Take a screenshot of the complete screen and save it in the Pictures folder.
 Alt + PrtSc: Take a screenshot of the current window and save it in the Pictures folder.
 
+
 GNOME Keyboard Shortcuts
 Alt + Esc: Switch between windows in the current workspace.
 Alt +`: Switch between windows of the same program.
 Alt + Tab: Cycle between running apps.
+Alt + L: Use lowercase from the current cursor position to the end of the word.
+Alt + U: Use uppercase from the current cursor position to the end of the word.
+Ctrl + _: Undo your last  keyboard action. Repeat this shortcut to undo multiple times.
+Ctrl + A: Move the cursor to the beginning of the line.
+
