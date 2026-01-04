@@ -1,0 +1,22 @@
+email:  mtarnekar408@gmail.com
+pass: PuneisBest#12
+
+aws cred
+acc name: m1992
+username: m1992
+pass: PuneisBest#12
+AccountId:136307390722
+
+db pass: Admin12345
+
+****git cred*****
+mrunalt12
+mrunalvt@gamil.com
+Umred1992#
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mrunalt12/projectgit.git
+git push -u origin main
