@@ -1,0 +1,9 @@
+Alt + F1: Show an overview of open windows.
+Alt + F2: Launch a floating command prompt window.
+Alt + F4: Close the current window.
+Alt + F5: Unmaximize the window in focus.
+Alt + F7: Select the current window and use the arrow keys to move it.
+Alt + F8: Resize the current window and use the arrow keys to resize it.
+Alt + F10: Minimize or maximize the current window.
+PrtSc: Take a screenshot of the complete screen and save it in the Pictures folder.
+Alt + PrtSc: Take a screenshot of the current window and save it in the Pictures folder.
