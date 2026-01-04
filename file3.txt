@@ -10,3 +10,7 @@ Alt + PrtSc: Take a screenshot of the current window and save it in the Pictures
 
 GNOME Keyboard Shortcuts
 Ubuntu Keyword Shortcuts
+Alt + Delete: Delete the word before the cursor.
+Alt + F: Move the cursor one word forward.
+Alt + P: Perform a reverse search in the terminal history.
+
